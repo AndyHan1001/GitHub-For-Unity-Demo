@@ -10,10 +10,4 @@ public class HelloWorld : MonoBehaviour
 	{
 		print(name);  // Just print the input string to the console.
 	}
-	
-	// Update is called once per frame
-	private void Update () 
-	{
-		
-	}
 }
