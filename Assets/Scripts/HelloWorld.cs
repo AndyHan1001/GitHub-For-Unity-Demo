@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour 
+public class HelloWorld : MonoBehaviour 
 {
 
 	// Use this for initialization
