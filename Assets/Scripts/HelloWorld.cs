@@ -3,11 +3,11 @@
 public class HelloWorld : MonoBehaviour 
 {
     [SerializeField]
-    private string content;
+    private string context;
 
 	// Use this for initialization
 	private void Start () 
 	{
-		print(content);  // Just print the input string to the console.
+		print(context);  // Just print the input string to the console.
 	}
 }
